@@ -1,4 +1,11 @@
 # talos-security.github.io
 
-
-#EF664F
+- Install hugo
+- Start hugo locally
+```
+hugo server
+```
+- Publish website
+```
+hugo
+```
