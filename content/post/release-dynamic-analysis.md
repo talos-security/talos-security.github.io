@@ -7,7 +7,7 @@ author = "Davide Caputo"
 
 
 
-## New Release Andorid Dynamic Analysis
+## New Release Android Dynamic Analysis
 
 **We recently released a new version of dynamic analysis for Android applications.**
 
