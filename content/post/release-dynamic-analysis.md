@@ -15,7 +15,7 @@ Below you can find the **changelog**:
 
 - New Android device based on **Android 11**,
 - Improvements of Network Analysis Module,
-- Update of Api Monitor Module,
+- Update of API Monitor Module,
 - Full support for **`x86`**, **`x86_64`**, and **`ARM`** android apps.
 
 **[Contact us](mailto:info@talos-sec.com) for trying the new Dynamic Analysis!**
