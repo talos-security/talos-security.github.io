@@ -1,5 +1,5 @@
 +++
-title = "New Release of Dynamic Analysis"
+title = "New Release of Android Dynamic Analysis!"
 date = "2022-05-06"
 cover = "img/dynamic-analysis.png"
 author = "Davide Caputo"
@@ -7,7 +7,7 @@ author = "Davide Caputo"
 
 
 
-## New Release Android Dynamic Analysis
+## New Release of Android Dynamic Analysis
 
 **We recently released a new version of dynamic analysis for Android applications.**
 
