@@ -9,3 +9,7 @@ hugo server
 ```
 hugo
 ```
+- New Post
+```
+hugo new posts/x-post.md
+```

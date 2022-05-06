@@ -17,7 +17,7 @@ paginate = 5
   [languages.en]
     title = "Talos"
     subtitle = "The Talos Blog"
-    keywords = ""
+    keywords = "cybersecurity, blog, ctf, tutorial, tool, opensource, programming"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"

@@ -1,21 +1,13 @@
 +++
-title = "About"
-date = "2019-01-25"
-author = "Radek"
+title = "We Are Talos"
+date = "2022-05-05"
+author = "Luca Verderame"
 +++
 
-# Hi there
+Talos is a Spin-off of the University of Genova (Italy) and an SME founded in January 2016.
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+Talos embraces the goal of developing and delivering cutting-edge technologies in the broad area of  cybersecurity to the business and the consumer markets.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+Talos leverages more than a decade of computer security research at the Computer Security Laboratory ([CSEC Lab](csec.it)).
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-
-So, there you have it... enjoy!
+The research team of CSEC Lab has contributed to many findings, including discovering a severe man-in-the-middle attack on the **SAML-based Single Sign-On** of the Google Apps and discovering and patching of a **vulnerability in a version of the Android operating system**.
