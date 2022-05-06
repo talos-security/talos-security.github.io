@@ -9,10 +9,32 @@
     <description>Recent content on Talos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>Talos srls</copyright>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Release of Dynamic Analysis</title>
+      <link>/post/release-dynamic-analysis/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/release-dynamic-analysis/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/dynamic-analysis.png&#34;/&gt;
+          
+        
+        
+        
+          New Release Andorid Dynamic Analysis #  We recently released a new version of dynamic analysis for Android applications.
+Below you can find the changelog:
+ New Android device based on Android 11, Improvements of Network Analysis Module, Update of Api Monitor Module, Full support for x86, x86_64, and ARM android apps.  Contact us for trying the new Dynamic Analysis!
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>We Are Talos</title>

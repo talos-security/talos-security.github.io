@@ -1,10 +1,11 @@
----
-title: "New Release of Dynamic Analysis!"
-date: "2022-05-06"
-draft: true
-cover: "img/dynamic-analysis.png"
-author: "Davide Caputo"
----
++++
+title = "New Release of Dynamic Analysis"
+date = "2022-05-06"
+cover = "img/dynamic-analysis.png"
+author = "Davide Caputo"
++++
+
+
 
 ## New Release Andorid Dynamic Analysis
 
