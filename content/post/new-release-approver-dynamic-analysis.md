@@ -10,9 +10,11 @@ author: "Davide Caputo"
 
 **We recently released a new version of dynamic analysis for Android applications.**
 
-Below you can find the Changelog:
+Below you can find the **changelog**:
 
-- Use of devices with Google Play Services based on Android 11,
-- Full support for **`x86`**, **`x86_64`**, and **`ARM`** applications.
+- New Android device based on **Android 11**,
+- Improvements of Network Analysis Module,
+- Update of Api Monitor Module,
+- Full support for **`x86`**, **`x86_64`**, and **`ARM`** android apps.
 
-**[Contact us](mailto:info@talos-sec.com) and try the new dynamic analysis!**
+**[Contact us](mailto:info@talos-sec.com) for trying the new Dynamic Analysis!**
